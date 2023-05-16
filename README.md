@@ -1,22 +1,17 @@
 # Materials-Management-University
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 a website facilitating easy categorization of academic books by doctor and year. Built with HTML, CSS, PHP, and MySQL, while offering admin and student logins for adding or removing books. Simplifying book management, our project streamlines academia for efficient learning.
 
+https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/4cb0e283-89e0-4f69-9a3a-78bab2cb618b
 
-
-
-
-<center>
-    <p>Contributors</p>
-<a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AhmedMohamedAbdelaty/Materials-Management-University" />
-</a>
-</center>
 
 ## Contributors ✨
-
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

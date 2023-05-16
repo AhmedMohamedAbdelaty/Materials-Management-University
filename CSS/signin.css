@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+}
+
+.container {
+  max-width: 400px;
+  width: 100%;
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 30px;
+}
+
+.container .title {
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+}
+
+.container .title::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 30px;
+  border-radius: 50px;
+  background-image: linear-gradient(147deg, #000000 0%, #007dfa 90%);
+}
+
+.content form .user-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: column;
+  margin: 20px 0 12px 0;
+}
+
+form .user-details .input-box {
+  margin-bottom: 5px;
+  width: 95%;
+}
+
+.user-details .input-box input {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 10px;
+  padding-left: 15px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+  -webkit-border-radius: 25px;
+}
+
+form .button {
+  height: 45px;
+  margin: 0 0 4;
+  padding-bottom: 4px;
+  width: 95%;
+}
+
+form .button input {
+  height: 100%;
+  width: 100%;
+  border-radius: 25px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+}
+
+form .button input:hover {
+  background-image: linear-gradient(147deg, #000000 0%, #7795b3 74%);
+}
+
+.register {
+  padding-top: 10px;
+}

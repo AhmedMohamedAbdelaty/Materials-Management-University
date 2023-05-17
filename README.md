@@ -24,40 +24,35 @@ https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/7
 
 ## Screenshots ✨
 
-<center>
-   	<h3>Registration and Login Pages</h3>
-    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/06acedd8-d627-4a2e-9a2a-028459087f31
-" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/f19c1807-5a35-4e3b-9f69-6ef82d9678ea" /> </div>
-    </center>
-<center>
-   	<h3>HomePage for Admin and Student</h3>
-    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/73faed57-ee41-4f17-b8ec-6d249b134321
-" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/1f6d018d-77d7-4722-af5b-93c026b84147" /> </div>
-    </center>
+<h3 align="center">Registration and Login Pages</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/a0f82bcb-c010-4521-a221-0d877c4debdf" width="49%"></img> <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c9b9bf74-1c0c-4de9-8965-2b5a5162ecbe" width="49%"></img> 
+</div>
+    
+<h3 align="center">HomePage for Admin and Student</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/73faed57-ee41-4f17-b8ec-6d249b134321" width="49%"></img> <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/1f6d018d-77d7-4722-af5b-93c026b84147" width="49%"></img> 
+</div>
 
-<center>
-   	<h3>Add Books</h3>
-    <div style="display:grid;grid-template-columns:repeat(1, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c8826eab-afc3-46b7-8d85-bae96f2bd57d
-" />  </div>
-    </center>
+<h3 align="center">Add Books</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c8826eab-afc3-46b7-8d85-bae96f2bd57d" width="100%"></img>
+</div>
 
-<center>
-   	<h3>Edit Books</h3>
-    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c2b4423c-f262-4750-bcb8-7fdefce2dd8a
-" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/57267d09-67e0-45f4-a348-12c66fa470e3" /> </div>
-    </center>
+<h3 align="center">Edit Books</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c2b4423c-f262-4750-bcb8-7fdefce2dd8a" width="49%"></img> <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/57267d09-67e0-45f4-a348-12c66fa470e3" width="49%"></img> 
+</div>
 
-<center>
-   	<h3>Show Students</h3>
-    <div style="display:grid;grid-template-columns:repeat(1, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/fa708ebb-c112-4b67-ae46-a663244efe3d
-" />     </div>
-    </center>
+<h3 align="center">Show Students</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/fa708ebb-c112-4b67-ae46-a663244efe3d" width="100%"></img>
+</div>
 
-<center>
-   	<h3>Show Books for Admin and Student</h3>
-    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/5471b7df-d5eb-4c8e-94e7-82417a80ff6a
-" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/48265ccb-bb95-4179-9b36-d0db003b9bdf" /> </div>
-    </center>
+<h3 align="center">Show Books for Admin and Student</h3>
+<div align="center">
+<img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/5471b7df-d5eb-4c8e-94e7-82417a80ff6a" width="49%"></img> <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/48265ccb-bb95-4179-9b36-d0db003b9bdf" width="49%"></img> 
+</div>
 
 -------------
 

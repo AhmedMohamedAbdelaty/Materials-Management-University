@@ -1,4 +1,7 @@
 # Materials-Management-University
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -30,6 +33,20 @@ https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/7
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OmarEid22"><img src="https://avatars.githubusercontent.com/u/95667747?v=4?s=100" width="100px;" alt="OmarEid22"/><br /><sub><b>OmarEid22</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=OmarEid22" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>

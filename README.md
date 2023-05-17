@@ -22,14 +22,51 @@ https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/7
 
 ---------
 
+## Screenshots ✨
 
+<center>
+   	<h3>Registration and Login Pages</h3>
+    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/06acedd8-d627-4a2e-9a2a-028459087f31
+" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/f19c1807-5a35-4e3b-9f69-6ef82d9678ea" /> </div>
+    </center>
+<center>
+   	<h3>HomePage for Admin and Student</h3>
+    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/73faed57-ee41-4f17-b8ec-6d249b134321
+" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/1f6d018d-77d7-4722-af5b-93c026b84147" /> </div>
+    </center>
+
+<center>
+   	<h3>Add Books</h3>
+    <div style="display:grid;grid-template-columns:repeat(1, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c8826eab-afc3-46b7-8d85-bae96f2bd57d
+" />  </div>
+    </center>
+
+<center>
+   	<h3>Edit Books</h3>
+    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/c2b4423c-f262-4750-bcb8-7fdefce2dd8a
+" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/57267d09-67e0-45f4-a348-12c66fa470e3" /> </div>
+    </center>
+
+<center>
+   	<h3>Show Students</h3>
+    <div style="display:grid;grid-template-columns:repeat(1, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/fa708ebb-c112-4b67-ae46-a663244efe3d
+" />     </div>
+    </center>
+
+<center>
+   	<h3>Show Books for Admin and Student</h3>
+    <div style="display:grid;grid-template-columns:repeat(2, 1fr);">     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/5471b7df-d5eb-4c8e-94e7-82417a80ff6a
+" />     <img src="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/73834838/48265ccb-bb95-4179-9b36-d0db003b9bdf" /> </div>
+    </center>
+
+-------------
 
 ## Contributors ✨
-
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>

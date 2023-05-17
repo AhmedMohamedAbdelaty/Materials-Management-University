@@ -7,14 +7,19 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "AhmedMohamedAbdelaty",
-      "name": "Ahmed Mohamed",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73834838?v=4",
-      "profile": "https://github.com/AhmedMohamedAbdelaty",
       "login": "loayghreeb",
       "name": "Loay Ghreeb",
       "avatar_url": "https://avatars.githubusercontent.com/u/52158423?v=4",
       "profile": "https://github.com/loayghreeb",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "youssefwaheed",
+      "name": "Youssef",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83561120?v=4",
+      "profile": "https://github.com/youssefwaheed",
       "contributions": [
         "code"
       ]

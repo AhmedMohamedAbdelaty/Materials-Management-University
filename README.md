@@ -39,6 +39,7 @@ https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/7
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OmarEid22"><img src="https://avatars.githubusercontent.com/u/95667747?v=4?s=100" width="100px;" alt="OmarEid22"/><br /><sub><b>OmarEid22</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=OmarEid22" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Abdallah-Younes10"><img src="https://avatars.githubusercontent.com/u/132548360?v=4?s=100" width="100px;" alt="Abdallah-Younes10"/><br /><sub><b>Abdallah-Younes10</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=Abdallah-Younes10" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

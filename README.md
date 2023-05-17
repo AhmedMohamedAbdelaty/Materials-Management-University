@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AhmedMohamedAbdelaty"><img src="https://avatars.githubusercontent.com/u/73834838?v=4?s=100" width="100px;" alt="Ahmed Mohamed"/><br /><sub><b>Ahmed Mohamed</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=AhmedMohamedAbdelaty" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/loayghreeb"><img src="https://avatars.githubusercontent.com/u/52158423?v=4?s=100" width="100px;" alt="Loay Ghreeb"/><br /><sub><b>Loay Ghreeb</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=loayghreeb" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

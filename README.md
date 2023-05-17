@@ -26,7 +26,6 @@ https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/assets/7
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -34,8 +33,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AhmedMohamedAbdelaty"><img src="https://avatars.githubusercontent.com/u/73834838?v=4?s=100" width="100px;" alt="Ahmed Mohamed"/><br /><sub><b>Ahmed Mohamed</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=AhmedMohamedAbdelaty" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/loayghreeb"><img src="https://avatars.githubusercontent.com/u/52158423?v=4?s=100" width="100px;" alt="Loay Ghreeb"/><br /><sub><b>Loay Ghreeb</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=loayghreeb" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AhmedMohamedAbdelaty"><img src="https://avatars.githubusercontent.com/u/73834838?v=4?s=100" width="100px;" alt="Ahmed Mohamed"/><br /><sub><b>Ahmed Mohamed</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=AhmedMohamedAbdelaty" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AbdAlRahmanGad"><img src="https://avatars.githubusercontent.com/u/89566409?v=4?s=100" width="100px;" alt="Abd al Rahman Gad"/><br /><sub><b>Abd al Rahman Gad</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=AbdAlRahmanGad" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/youssefwaheed"><img src="https://avatars.githubusercontent.com/u/83561120?v=4?s=100" width="100px;" alt="Youssef"/><br /><sub><b>Youssef</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=youssefwaheed" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Abdallah-Younes10"><img src="https://avatars.githubusercontent.com/u/132548360?v=4?s=100" width="100px;" alt="Abdallah-Younes10"/><br /><sub><b>Abdallah-Younes10</b></sub></a><br /><a href="https://github.com/AhmedMohamedAbdelaty/Materials-Management-University/commits?author=Abdallah-Younes10" title="Code">💻</a></td>
@@ -48,5 +47,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
